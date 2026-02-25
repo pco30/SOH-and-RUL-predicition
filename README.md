@@ -72,8 +72,9 @@ SOH-and-RUL-predicition/
          ├─ main.py
          └─ early_life.py
 ```
-ignore src/prev_work
+
 ---
+ignore src/prev_work
 
 ## ⚙️ Installation
 
