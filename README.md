@@ -96,7 +96,7 @@ pip install -r requirements.txt
 
 ---
 
-#  Resulting workflow
+##  Resulting workflow
 
 ```bash
 git clone <repo>
@@ -106,7 +106,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 cd src\SOH_prediction
 python -m scripts.main
-
+```
 
 ## Output:
 
