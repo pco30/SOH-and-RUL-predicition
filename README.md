@@ -195,9 +195,3 @@ For a target battery:
 
 ---
 
-
-## ✉️ Contact
-
-If you have questions, suggestions, or would like to collaborate:
-
-**Princely O.**
