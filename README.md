@@ -96,7 +96,7 @@ pip install -r requirements.txt
 
 ---
 
-#  Resulting workflow for anyone
+#  Resulting workflow
 
 ```bash
 git clone <repo>
@@ -107,7 +107,8 @@ pip install -r requirements.txt
 cd src\SOH_prediction
 python -m scripts.main
 
-Output:
+
+## Output:
 
 ```
 HOLDOUT (by battery) -> MSE: <value>  MAE: <value>
