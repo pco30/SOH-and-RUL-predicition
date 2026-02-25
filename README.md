@@ -88,24 +88,23 @@ venv\Scripts\activate      # Windows
 Install dependencies:
 
 ```bash
-pip install numpy pandas scikit-learn xgboost lightgbm scipy matplotlib
+pip install -r requirements.txt
 ```
 
 ---
 
-## Running the Pipeline
+---
 
-Navigate to the project root:
+#  Resulting workflow for anyone
 
 ```bash
+git clone <repo>
+cd SOH-and-RUL-predicition
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
 cd src\SOH_prediction
-```
-
-### Train models + battery-holdout evaluation
-
-```bash
 python -m scripts.main
-```
 
 Output:
 
