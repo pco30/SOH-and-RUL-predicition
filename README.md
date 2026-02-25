@@ -1,4 +1,4 @@
-## SOH and RUL Prediction Using Physics-Informed Feature Engineering and Stacked Ensembles
+## SOH Prediction Using Physics-Informed Feature Engineering and Stacked Ensembles
 
 This repository implements an end-to-end machine learning pipeline for **State-of-Health (SoH)** prediction and **early-life Remaining Useful Life (RUL) forecasting** of lithium-ion batteries using high-resolution cycling data.
 
