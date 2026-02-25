@@ -76,7 +76,7 @@ SOH-and-RUL-predicition/
 ---
 ignore src/prev_work
 
-## ⚙️ Installation
+##  Installation
 
 Create a virtual environment (recommended):
 
@@ -149,7 +149,7 @@ Features are selected automatically via stability selection.
 
 ---
 
-## 🔬 Modeling
+##  Modeling
 
 ### Base Models
 
@@ -167,7 +167,7 @@ Features are selected automatically via stability selection.
 
 ---
 
-## 🧪 Validation Strategy
+##  Validation Strategy
 
 * **GroupKFold by battery ID**
 * Prevents leakage across cells
@@ -175,7 +175,7 @@ Features are selected automatically via stability selection.
 
 ---
 
-## 📈 Early-Life Forecasting
+##  Early-Life Forecasting
 
 For a target battery:
 
@@ -185,7 +185,7 @@ For a target battery:
 
 ---
 
-## 🚀 Applications
+##  Applications
 
 * Battery health monitoring
 * Predictive maintenance
@@ -195,11 +195,6 @@ For a target battery:
 
 ---
 
-## 📜 License
-
-MIT License 
-
----
 
 ## ✉️ Contact
 
