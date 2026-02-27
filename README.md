@@ -94,8 +94,6 @@ pip install -r requirements.txt
 
 ---
 
----
-
 ##  Resulting workflow
 
 ```bash
